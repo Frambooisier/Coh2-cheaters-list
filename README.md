@@ -7,12 +7,9 @@ This repository documents list of known cheaters and their Steam IDs in *Company
 ### Bug Exploits
 
 
-### List of Known Cheaters
+### List of confirmed Cheaters
 
-| Cheater Name | Steam ID         | Proof |
-|--------------|------------------|-------|
-| Woody_Hoody     | 76561199229932019 | [Link](https://github.com/aliakbarazizi/cheaters-coh2/pull/1) |
-
+other in issues tab
 ### Contributing
 
 If you want to add another cheater to the list, please create issue with the name and steam ID in the title. Ensure to include:
