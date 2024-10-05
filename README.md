@@ -2,16 +2,14 @@
 
 ## Company of Heroes 2 - Bug Exploits and Cheaters
 
-This repository documents various bugs in *Company of Heroes 2* that cheaters exploit, how these exploits are used, and the community's response to these issues. We also maintain a list of known cheaters and their Steam IDs.
+This repository documents list of known cheaters and their Steam IDs in *Company of Heroes 2* 
 
 ### Bug Exploits
-
-Here, we describe the major bugs in *Company of Heroes 2* that are commonly exploited:
 
 1. **Map Hacking:** Allows players to see the entire map and enemy positions. [More Info](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/472523-company-heroes-2-sp-mp-tools.html)
 2. **Commander Exploit:** Enables players to use other factions commanders. [More Info](https://youtu.be/2agdO5bnw_A)
 3. **Drop Hack:** Forces opponents to disconnect, causing them to lose the match. (No source yet)
-4. **Use OKW truck as other factions:** Allow OKW player to give to give OKW tech truck to other players and allow them to use OKW techs and build and use OKW units and abilities. [More Info](https://youtu.be/B-8BJXBpL78)
+ [More Info](https://youtu.be/B-8BJXBpL78)
 
 ### List of Known Cheaters
 
@@ -21,14 +19,16 @@ Here, we describe the major bugs in *Company of Heroes 2* that are commonly expl
 
 ### Contributing
 
-If you want to add another cheater to the list, please make a Pull Request (PR) with proof of their cheating. Ensure to include:
+If you want to add another cheater to the list, please create issue with the name and steam ID in the title. Ensure to include:
 - **Cheater Name**
 - **Steam ID**
 - **Proof (screenshots, videos, etc.)**
+- game replay
+- proper description of events and timestamps
 
 ### Developer Response
 
-Until now, Relic has not responded to any emails, messages on Discord, or comments in live videos regarding these issues.
+Relic is not responding to reports, this list is an attempt to induce ban wave from Relic by contributing the list of well documented cheaters making it as easy as possible for Relic.
 
 ---
 
