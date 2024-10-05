@@ -6,10 +6,6 @@ This repository documents list of known cheaters and their Steam IDs in *Company
 
 ### Bug Exploits
 
-1. **Map Hacking:** Allows players to see the entire map and enemy positions. [More Info](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/472523-company-heroes-2-sp-mp-tools.html)
-2. **Commander Exploit:** Enables players to use other factions commanders. [More Info](https://youtu.be/2agdO5bnw_A)
-3. **Drop Hack:** Forces opponents to disconnect, causing them to lose the match. (No source yet)
- [More Info](https://youtu.be/B-8BJXBpL78)
 
 ### List of Known Cheaters
 
