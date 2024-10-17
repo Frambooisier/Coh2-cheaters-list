@@ -21,7 +21,7 @@ If you want to add another cheater to the list, please create issue with the nam
 
 ### Developer Response
 
-Relic is not responding to reports, this list is an attempt to induce ban wave from Relic by contributing the list of well documented cheaters making it as easy as possible for Relic.
+poop
 
 ---
 
