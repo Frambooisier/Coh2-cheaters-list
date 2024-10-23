@@ -9,6 +9,10 @@ This repository documents list of known cheaters and their Steam IDs in *Company
 
 ### List of confirmed Cheaters
 
+https://coh2stats.com/players/76561199477820380-RelicEntertainment
+https://coh2stats.com/players/76561199395363327
+https://coh2stats.com/players/76561198112185789-ywgzh
+https://coh2stats.com/players/76561198807381941-WilhelmD
 other in issues tab
 ### Contributing
 
