@@ -23,7 +23,9 @@ If you want to add another cheater to the list, please create issue with the nam
 What to look for in replays:
 
 Pre-firing or pre-emptive actions: If a player shoots or targets units in the fog of war before they are visible (e.g., targeting areas where there should be no line of sight), this is a strong indicator of map hacking. In replays, you can compare their actions to the timing of when the enemy units actually become visible.
+
 Targeting invisible or hidden units: Watch for instances where a player seems to know the exact location of enemy units hidden by the fog of war. If they're firing at units that haven't been revealed yet, especially in areas that should be out of line of sight, that’s evidence of map awareness that shouldn't be possible.
+
 Unrealistic strategic decisions: Look for decisions that seem too perfect. If a player always avoids traps or seems to respond to threats before they are visible (e.g., anticipating artillery or units), it could be an indication of using a maphack.
 
 
