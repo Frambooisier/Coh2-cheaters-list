@@ -20,6 +20,8 @@ If you want to add another cheater to the list, please create issue with the nam
 - game replay
 - proper description of events and timestamps
 
+Or send it to me at niezasysa@gmail.com
+
 What to look for in replays:
 
 Pre-firing or pre-emptive actions: If a player shoots or targets units in the fog of war before they are visible (e.g., targeting areas where there should be no line of sight), this is a strong indicator of map hacking. In replays, you can compare their actions to the timing of when the enemy units actually become visible.
