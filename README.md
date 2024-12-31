@@ -13,14 +13,14 @@ FOR NOW LOOK AT "Issues" TAB FOR LIST OF CHEATERS
 
 ### Contributing
 
-If you want to add another cheater to the list, please create issue with the name and steam ID in the title. Ensure to include:
+If you want to add another cheater to the list, send me an e-mail with the name and steam ID in the title. Ensure to include:
 - **Cheater Name**
 - **Steam ID**
 - **Proof (screenshots, videos, etc.)**
 - game replay
 - proper description of events and timestamps
 
-Or send it to me at niezasysa@gmail.com
+send it to me at niezasysa@gmail.com
 
 What to look for in replays:
 
