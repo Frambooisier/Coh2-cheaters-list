@@ -13,7 +13,7 @@ FOR NOW LOOK AT "Issues" TAB FOR LIST OF CHEATERS
 
 ### Contributing
 
-If you want to add another cheater to the list, send me an e-mail with the name and steam ID in the title. Ensure to include:
+If you want to add another cheater to the list, drop replay on discord server or send me an e-mail with the name and steam ID in the title. Ensure to include:
 - **Cheater Name**
 - **Steam ID**
 - **Proof (screenshots, videos, etc.)**
@@ -21,7 +21,7 @@ If you want to add another cheater to the list, send me an e-mail with the name 
 - proper description of events and timestamps
 
 send it to me at niezasysa@gmail.com
-
+diescord https://discord.gg/x8E97uxpGQ
 What to look for in replays:
 
 Pre-firing or pre-emptive actions: If a player shoots or targets units in the fog of war before they are visible (e.g., targeting areas where there should be no line of sight), this is a strong indicator of map hacking. In replays, you can compare their actions to the timing of when the enemy units actually become visible.
